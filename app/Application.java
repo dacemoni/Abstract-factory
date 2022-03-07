@@ -1,4 +1,4 @@
-package refactoring_guru.abstract_factory.example.app;
+package Abstract-factory;
 
 import refactoring_guru.abstract_factory.example.buttons.Button;
 import refactoring_guru.abstract_factory.example.checkboxes.Checkbox;

@@ -1,4 +1,4 @@
-package refactoring_guru.abstract_factory.example;
+package Abstract-factory;
 
 import refactoring_guru.abstract_factory.example.app.Application;
 import refactoring_guru.abstract_factory.example.factories.GUIFactory;
