@@ -1,4 +1,4 @@
-package Abstract-factory;
+package Abstract_factory.button;
 
 /**
  * Abstract Factory assumes that you have several families of products,

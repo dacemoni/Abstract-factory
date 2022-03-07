@@ -1,4 +1,4 @@
-package Abstract-factory;
+package Abstract_factory.checkboxes;
 
 /**
  * All products families have the same varieties (MacOS/Windows).

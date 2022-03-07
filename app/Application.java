@@ -1,8 +1,8 @@
-package Abstract-factory;
+package Abstract_factory.app;
 
-import refactoring_guru.abstract_factory.example.buttons.Button;
-import refactoring_guru.abstract_factory.example.checkboxes.Checkbox;
-import refactoring_guru.abstract_factory.example.factories.GUIFactory;
+import Abstract_factory.buttons.Button;
+import Abstract_factory.checkboxes.Checkbox;
+import Abstract_factory.factories.GUIFactory;
 
 /**
  * Factory users don't care which concrete factory they use since they work with
