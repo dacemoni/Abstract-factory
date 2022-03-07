@@ -1,4 +1,4 @@
-package Abstract_factory.app;
+package Abstract_factory;
 
 import Abstract_factory.app.Application;
 import Abstract_factory.factories.GUIFactory;
